@@ -1,7 +1,7 @@
 {
   "name": "objects-tracker",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/objects-tracker",
+  "sourceRoot": "apps/objects-tracker/src",
   "projectType": "application",
   "tags": [],
   "// targets": "to see all targets run: nx show project objects-tracker --web",
